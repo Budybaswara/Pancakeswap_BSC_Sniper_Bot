@@ -4,15 +4,15 @@
 
     "RPC": "https://bsc-dataseed.binance.org/",
 
-    "GWEI_GAS": 6,
+    "GWEI_GAS": 9,
     
-    "MaxTXFeeBNB": 0.01,
+    "MaxTXFeeBNB": 0.02,
 
-    "Slippage": 20,
+    "Slippage": 49,
 
     "MinLiquidityUSD": 10000,
-    "MaxSellTax": 25,
-    "MaxBuyTax": 15,
+    "MaxSellTax": 49,
+    "MaxBuyTax": 45,
 
     "timeout": 120,
     "SaveGasCost": true,
